@@ -1,0 +1,4 @@
+/dist
+*.log
+.vscode/*
+!.vscode/settings.json
